@@ -25,7 +25,7 @@ Next.js + Firebase を使ったリアルタイムチャットアプリです。s
 
 ---
 
-https://github.com/user-attachments/assets/041d993a-137a-49bb-8f01-129b26ea6365
+https://github.com/user-attachments/assets/1dfa8b03-ba8f-42ce-89bd-48f836c959d9
 
 ## セットアップ
 
