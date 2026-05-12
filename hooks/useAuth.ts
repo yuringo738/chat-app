@@ -19,7 +19,7 @@ export const useAuth = () => {
     useEffect(() => {
         const unsubscribe = onAuthStateChanged(auth, async (firebaseUser) => {
             if (firebaseUser) {
-                // 🔥 Firestore の users に必ず登録
+                // Firestore の users に必ず登録
                 await setDoc(
                     doc(db, "users", firebaseUser.uid),
                     {
